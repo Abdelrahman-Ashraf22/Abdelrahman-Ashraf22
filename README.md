@@ -31,7 +31,7 @@ npx Abdo
 ### Some of the technologies I have worked with</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![BRACKETS](http://img.shields.io/badge/-BRACKET-000000?style=for-the-badge&logo=Bracket)
+![BRACKETS](http://img.shields.io/badge/-Brackets-000000?style=for-the-badge&logo=Bracket)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
