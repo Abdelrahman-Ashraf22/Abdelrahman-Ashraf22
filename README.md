@@ -21,11 +21,13 @@
 npx Abdo
 ```
 
-### I know more about- </br>
+### Programming Languages </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=BootStrap)
+![REACT](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
+
 
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
