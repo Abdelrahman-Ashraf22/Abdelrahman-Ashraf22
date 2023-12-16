@@ -22,7 +22,8 @@
 npx Abdo
 ```
 
-- Fun fact: *Most developers love coffee, But I prefer tea* 
+*Fun fact*:
+*Most developers love coffee, But I prefer tea* 
 
 
 ### Programming Languages </br>
