@@ -4,7 +4,8 @@
 
 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height
+="auto" />
 
 
 [![Facebook](https://img.shields.io/badge/-FaceBook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/AbdoAshraf1252000)
@@ -32,7 +33,7 @@ npx Abdo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=BootStrap)
 ![REACT](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
-![SAAS](https://img.shields.io/badge/-SAAS-000000?style=for-the-badge&logo=SAAS)
+![SAAS](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
 
 
 ### Some of the technologies I have worked with</br>
