@@ -31,7 +31,7 @@ npx Abdo
 ### Some of the technologies I have worked with</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![BRACKETS](https://www.bing.com/images/search?view=detailV2&ccid=oGE9PB6O&id=34EF3683636EE057283F4744B640EA0ADD3A649B&thid=OIP.oGE9PB6O5REJ8DZx6tPR5QAAAA&mediaurl=https%3a%2f%2fseeklogo.com%2fimages%2fB%2fbrackets-logo-56F0E499BE-seeklogo.com.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a0613d3c1e8ee51109f03671ead3d1e5%3frik%3dm2Q63QrqQLZERw%26pid%3dImgRaw%26r%3d0&exph=300&expw=300&q=brackets+logo&simid=608020404545206481&FORM=IRPRST&ck=6DF56DE1B810DD9E16F9EA46F996BB65&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
+![Brackets](http://img.shields.io/badge/-Brackets-000000?style=for-the-badge&logo=Brackets&logoColor=blue)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
