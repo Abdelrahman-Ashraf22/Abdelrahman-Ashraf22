@@ -1,6 +1,5 @@
 ### Hi there 👋 
 ### Welcome to my github page! My name is Abdelrahman, I'm a front-end web developer. 
-- Fun fact: *Most developers love coffee, But I prefer tea* 
 
 
 
@@ -22,6 +21,9 @@
 ```
 npx Abdo
 ```
+
+- Fun fact: *Most developers love coffee, But I prefer tea* 
+
 
 ### Programming Languages </br>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
