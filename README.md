@@ -12,7 +12,7 @@
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-- Fun fact: When most developer loves coffee 😅 But, I prefer tea ♥️
+- Fun fact: *Most developers love coffee, But I prefer tea* 
 
 # *I am willing to collaborate as a team player building better code.*
 
@@ -32,8 +32,7 @@ npx Abdo
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
+![BRACKETS](http://img.shields.io/badge/-BRACKETS-000000?style=for-the-badge&logo=brackets)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
