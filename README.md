@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Abdelrahman Ashraf!
+### Welcome to my github page! My name is Abdelrahman, I'm a front-end web developer. 
 
 [![Facebook](https://img.shields.io/badge/-FaceBook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/AbdoAshraf1252000)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-ashraf-883992216/)
@@ -8,44 +8,24 @@
 [![Yahoo](https://img.shields.io/badge/-Yahoo-5b0fbc?style=flat&logo=Yahoo&logoColor=white)](mailto:abdo.ashraf6458@yahoo.com)
 
 
-Welcome to my Github page! I am Abdelrahman I'm a front-end web developer. 
+
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
-- Working : Web Development 💻 | Cloud ☁️
-Learning : Full-Stack ⚡ | Open-Source 🔥
-Hobbies : Books 📚 | Music 🎧
-Ask me about : Anything!, I'm happy to help ✌️
-Fun fact : When most developer loves coffee:sweat_smile: But, I prefer tea :heart:
-Pronouns : He/Him/His 😇
-
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
-- Exercising 3 days a week
-- Improving my CV with some education apart from university
-
+- Fun fact: When most developer loves coffee 😅 But, I prefer tea ♥️
 
 # *I am willing to collaborate as a team player building better code.*
 
 ### Hit this over the terminal or console, to know more about me.
 ```
-npx nitish
+npx Abdo
 ```
 
 ### I know more about- </br>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![Markdown](http://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=BootStrap)
 
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
