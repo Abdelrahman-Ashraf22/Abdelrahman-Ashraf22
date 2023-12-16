@@ -2,7 +2,6 @@
 ### Welcome to my github page! My name is Abdelrahman, I'm a front-end web developer. 
 - Fun fact: *Most developers love coffee, But I prefer tea* 
 
-# *I am willing to collaborate as a team player building better code.*
 
 
 [![Facebook](https://img.shields.io/badge/-FaceBook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/AbdoAshraf1252000)
@@ -14,6 +13,7 @@
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
+# *I am willing to collaborate as a team player building better code.*
 
 
 ### Hit this over the terminal or console, to know more about me.
