@@ -33,8 +33,7 @@ npx Abdo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&logo=BootStrap)
 ![REACT](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=React)
-![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=TypeScript)
-![SAAS](https://img.shields.io/badge/-SaaS-000000?style=for-the-badge&logo=SaaS)
+
 
 
 ### Some of the technologies I have worked with</br>
